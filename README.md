@@ -3,6 +3,12 @@
 ![Monica's Logo](https://user-images.githubusercontent.com/61099/37693034-5783b3d6-2c93-11e8-80ea-bd78438dcd51.png)
 
 <p>
+<h1>ビルド方法</h1>
+<pre>
+mv docker-compose.dev.yml docker-compose.yml
+docker-compose up -d
+</pre>
+
 <h1 align="center">Personal Relationship Manager</h1>
 
 <div align="center">
